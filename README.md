@@ -1,4 +1,4 @@
-My name is Dustyn Zierman-Felix
+Dustyn Zierman-Felix
 =====================================
 
 Software Engineer
