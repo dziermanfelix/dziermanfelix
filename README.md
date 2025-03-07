@@ -4,7 +4,7 @@ Dustyn Zierman-Felix
 Software Engineer
 -----------------
 
-I work on web apps to solve personal problems and make life more fun.
+I develop web apps to solve personal problems and make life more fun.
 
 * 🌍  I'm based in Huntsville, AL. Open to relocation.
 * ✉️  You can contact me at [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
