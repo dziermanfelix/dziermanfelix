@@ -25,5 +25,4 @@ I develop web apps to solve personal problems and make life more fun.
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dziermanfelix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=dziermanfelix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dziermanfelix&theme=dark&hide_border=false)
