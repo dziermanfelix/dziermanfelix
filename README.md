@@ -6,10 +6,9 @@ Software Engineer
 
 I develop web apps to solve personal problems and make life more fun.
 
-* 🌍  I'm based in Huntsville, AL. Open to relocation.
-* ✉️  You can contact me at [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
-* 🚀  I'm currently working on [jukebox roundtable](https://jukebox-roundtable.onrender.com/)
-* 🧠  I'm learning django
+* Based in Huntsville, AL. Open to relocation.
+* You can contact me at [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
+* Currently working on [jukebox roundtable](https://jukebox-roundtable.onrender.com/) and [fytepycker](https://github.com/dziermanfelix/fytepycker)
 
 ### Skills
 
