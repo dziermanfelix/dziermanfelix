@@ -8,7 +8,7 @@ I develop web apps to solve personal problems and make life more fun.
 
 * Based in Huntsville, AL. Open to relocation.
 * You can contact me at [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
-* Currently working on [jukebox roundtable](https://jukebox-roundtable.onrender.com/) and [fytepycker](https://github.com/dziermanfelix/fytepycker)
+* Currently working on [Fytepycker](https://fytepycker-611ee5279614.herokuapp.com/) and [Jukebox Roundtable](https://jukebox-roundtable.onrender.com/)
 
 ### Skills
 
