@@ -23,6 +23,8 @@ I'm a software engineer developing web apps to solve personal problems and make 
 
 [<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"></code>](https://nodejs.org/en/)
 [<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"></code>](https://expressjs.com/)
+[<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs.svg"></code>](https://nestjs.com/)
+[<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"></code>](https://nextjs.org/)
 [<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"></code>](https://www.djangoproject.com/)
 
 [<code><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"></code>](https://www.postgresql.org/)
