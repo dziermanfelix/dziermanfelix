@@ -1,4 +1,5 @@
-### Dustyn Zierman-Felix
+Dustyn Zierman-Felix
+=============
 
 I'm a software engineer developing web apps to solve personal problems and make life more fun.
 
