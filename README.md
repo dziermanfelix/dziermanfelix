@@ -7,7 +7,7 @@ I'm a software engineer developing web apps to solve personal problems and make 
 * Email me @ [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
 
 ### Projects
-* [Fytepycker](https://fytepycker-611ee5279614.herokuapp.com/) is a UFC betting app.
+* [Fytepycker](https://github.com/dziermanfelix/fytepycker) is a UFC betting app.
 * [Jukebox Roundtable](https://jukebox-roundtable.onrender.com/) is a Spotify integrated group listening app.
 * [Zierfx](https://zierfx.com/) is my music hosting site.
 
