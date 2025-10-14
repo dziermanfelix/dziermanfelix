@@ -3,7 +3,7 @@ Dustyn Zierman-Felix
 
 I'm a software engineer developing web apps to solve personal problems and make life more fun.
 
-* Central Coast, CA & Huntsville, AL
+* Huntsville, AL
 * Email me @ [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
 
 ### Projects
