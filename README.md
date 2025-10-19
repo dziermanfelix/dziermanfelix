@@ -9,7 +9,7 @@ I'm a software engineer developing web apps to solve personal problems and make 
 ### Projects
 * [Fytepycker](https://github.com/dziermanfelix/fytepycker) is a UFC betting app.
 * [Jukebox Roundtable](https://jukebox-roundtable.onrender.com/) is a Spotify integrated group listening app.
-* [Zierfx](https://zierfx.com/) is my music hosting site.
+* [Zierman Felix](https://ziermanfelix.com/) is my artist page.
 
 ### Tools
 
