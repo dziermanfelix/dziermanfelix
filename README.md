@@ -1,7 +1,10 @@
 Dustyn Zierman-Felix
 =============
 
-I'm a software engineer developing web apps to solve personal problems and make life more fun.
+Fullstack software engineer with 5+ years of experience building scalable, production-ready applications. Strong proficiency in
+TypeScript, React, Next.js, Node.js, Django, and modern DevOps practices. Experienced in designing backend APIs, real-time
+systems, and automation that improves reliability and performance. Known for owning features end-to-end, delivering clean,
+maintainable code, and driving impactful engineering solutions.
 
 * Huntsville, AL
 * Email me @ [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
