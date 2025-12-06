@@ -11,7 +11,7 @@ maintainable code, and driving impactful engineering solutions.
 
 ### Projects
 * [Zierfx](https://ziermanfelix.com/) is my music hosting site.
-* [Fytepycker](https://github.com/dziermanfelix/fytepycker) is a UFC betting app.
+* [Fytepycker](https://fytepycker.onrender.com/) is a UFC betting app.
 * [Jukebox Roundtable](https://jukebox-roundtable.onrender.com/) is a Spotify integrated group listening app.
 
 ### Tools
