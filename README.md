@@ -10,7 +10,7 @@ maintainable code, and driving impactful engineering solutions.
 * Email me @ [dziermanfelix@gmail.com](mailto:dziermanfelix@gmail.com)
 
 ### Projects
-* [Zierfx](https://ziermanfelix.com/) is my music hosting site.
+* [Zierfx](https://zierfx.com/) is my music hosting site.
 * [Fytepycker](https://fytepycker.onrender.com/) is a UFC betting app.
 * [Jukebox Roundtable](https://jukebox-roundtable.onrender.com/) is a Spotify integrated group listening app.
 
